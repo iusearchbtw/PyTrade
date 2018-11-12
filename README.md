@@ -8,7 +8,7 @@
 
 • Demonstrates over 300% more efficiency than normal trader in High Frequency event market.
 
-• Built in Python for Investopedia Stock Trading Simulator using SQL database management.\
+• Built in Python for Investopedia Stock Trading Simulator using SQL database management.
 
 Work-in-Progress:
 • Multiple Options trading. (currently implemented: Black-Scholes binary option pricing)
