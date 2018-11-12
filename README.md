@@ -4,7 +4,7 @@
 
 • Automates live feed using kirkthaker's Investopedia paper trading stock simulator API which required the use of XML processing using Element Trees libraries.
 
-• Data mines live feed from various websites for live Index Pricing and Volatility by parsing HTML.
+• Data mines live feed from various websites for live Index Pricing and Volatility by parsing HTML and storing using SQL database management system.
 
 • Demonstrates over 300% more efficiency than normal trader in High Frequency event market.
 
