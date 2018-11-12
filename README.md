@@ -5,4 +5,4 @@ Algorithmic Python Investopedia Stock Trading Bot that generates consistent posi
 Work-in-Progress:
 Multiple Options trading. (currently implemented: Black-Scholes binary option pricing)
 
-Built in Python for Investopedia Stock Trading Simulator
+Built in Python for Investopedia Stock Trading Simulator using SQL database management.
