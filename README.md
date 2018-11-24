@@ -13,4 +13,6 @@
 • Built in Python for Investopedia Stock Trading Simulator using SQL database management.
 
 Work-in-Progress:
+
+
 • Multiple Options trading. (currently implemented: Black-Scholes binary option pricing)
