@@ -1,4 +1,4 @@
-# PyInTrade - Python Investopedia Bot
+# PyTrade - Python Investopedia Bot
 
 • Algorithmic Python Trading Bot for Investopedia Stock Pitch Competitions that generates consistent positive returns by utilizing Python algorithm to trade DOW contracts using Black-Scholes binary option pricing.
 
