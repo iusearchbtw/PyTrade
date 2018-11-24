@@ -12,7 +12,7 @@
 
 • Demonstrates over 300% more efficiency than normal trader in High Frequency event market.
 
-• Optimizes portfolio using tool based on Markowitz's portfolio optimization model that I developed, available here: https://github.com/khanshehjad/MarkowitzPortfolioOptimizer
+• Optimizes portfolio using tool that I developed based on Markowitz's portfolio optimization model, available here: https://github.com/khanshehjad/MarkowitzPortfolioOptimizer
 
 • Built in Python for Investopedia Stock Trading Simulator using SQL database management.
 
