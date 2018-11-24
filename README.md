@@ -1,6 +1,6 @@
 # PyTrade - Python Investopedia Bot
 
-• Trading Bot that delivers consistent positive returns by minimizing stock volatility and maximizing dividend yield for Investopedia Stock Pitch Competition market simulation platform.
+• Trading Bot that delivers consistent positive returns by minimizing stock volatility and maximizing dividend yield in the Investopedia Stock Pitch Competition market simulation platform.
 
 • Utilizes algorithmic trading model built in Python to trade DOW contracts using Black-Scholes binary option pricing.
 
