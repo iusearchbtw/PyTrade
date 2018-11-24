@@ -12,7 +12,7 @@
 
 • Demonstrates over 300% more efficiency than normal trader in High Frequency event market.
 
-• Optimizes portfolio using tool based on Markowitz's portfolio optimization model that takes in historical prices of a set of stocks to purchase and risk tolerance (stated as standard deviation), and uses the 3-month data to calculate the estimate return, covariance and mean. Quadratic programming is then used to arrive at final desired weighting of the stocks input.
+• Optimizes portfolio using tool based on Markowitz's portfolio optimization model that I developed, available here: https://github.com/khanshehjad/MarkowitzPortfolioOptimizer
 
 • Built in Python for Investopedia Stock Trading Simulator using SQL database management.
 
