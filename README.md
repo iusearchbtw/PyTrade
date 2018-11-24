@@ -8,7 +8,7 @@
 
 • Data mines live feed from various websites for live Index Pricing and Volatility by parsing HTML and storing using SQL database management system.
 
-• Won third place in University of Waterloo Finance Association Investopedia Trading Competition out of 112 participants.
+• Won second place in University of Waterloo Finance Association Investopedia Stock Picking Competition out of 112 participants.
 
 • Demonstrates over 300% more efficiency than normal trader in High Frequency event market.
 
