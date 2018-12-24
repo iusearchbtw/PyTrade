@@ -4,6 +4,10 @@
 
 • Utilizes algorithmic trading model built in Python to trade DOW contracts using Black-Scholes binary option pricing.
 
+• Uses HTTP requests to automate trades using Investopedia API sending JSON objects.
+
+• GUI uses wxPython library to manage multiple threads for background trading.
+
 • Automates live feed using kirkthaker's Investopedia paper trading stock simulator API which required the use of XML processing using Element Trees libraries.
 
 • Data mines live feed from various websites for live Index Pricing and Volatility by parsing HTML and storing using SQL database management system.
